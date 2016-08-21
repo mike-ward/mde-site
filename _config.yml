@@ -1,0 +1,18 @@
+appname:          'Markdown Edit'
+url:              http://markdownedit.com/
+canonical:        http://markdownedit.com/
+
+owner:
+  name:           Mike Ward
+  avatar:         avatar.png
+  bio:            Programmer, correction Hack, Bourbon Drinker
+  email:          mike@mike-ward.net
+  twitter:        mikeward_aa
+  github:         mike-ward
+  instagram:      
+  dribbble:       
+  disqus:         mikeward_aa
+  location:       "Ann Arbor, MI  USA"
+
+gems:
+  - jekyll-seo-tag  

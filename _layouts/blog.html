@@ -1,0 +1,18 @@
+--- 
+layout: default
+---
+{% include sitelink.html %}
+
+<h1><img src="{{ site.url }}images/blog.png" alt="blog icon" />Blog</h1>
+
+<section class="article archive">
+    <article class="archive-wrap">
+        <ul class="post-list">
+            {% for post in site.posts %}
+            <li>{{post.date | date: "%Y-%m-%d" }} &ndash; <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </article>
+</section>
+
+{% include follow.html %}

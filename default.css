@@ -1,0 +1,49 @@
+body 
+{ 
+	font-family: Segoe UI, Segoe WP, Helvetica, Arial, FreeSans, san-serif;
+	margin: 0; 
+	padding: 0; 
+	background: url('images/background_image.png') repeat-x top;
+	font-size: 1.1em;
+}
+
+h1 { 
+	font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; 
+    font-weight: lighter; 
+	font-size: 2.9em; 
+	margin-top: 0;}
+
+a, a:visited { color: #134A8A; text-decoration:none;}
+a:hover { color: #134A8A; text-decoration:underline; }
+img { border: none;}
+blockquote { padding: 0 12pt; color: #777; border-left: 3pt solid #ddd;  }
+
+#code52 { color: #41b1e1; font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; }
+#code52 a, #code52 a:visited { color: #41b1e1; text-decoration:none; }
+#code52 a:hover { text-decoration:underline; }
+#apptitle { font-weight:bold; }
+#container {  width: 51.137em; margin-left:auto; margin-right:auto;  margin-top:1.5em; }
+#features { margin-top:1.5em; margin-bottom:1.5em;}
+#screenshot { text-align:center; }
+.screenshotborder {	width:45em;	display:block;	margin-left:auto; margin-right:auto; }
+#screenshotbordertop {margin-top:-22px;}
+#downloads { margin-left:auto; margin-right:auto; width:12.5em; font-size:2em; }
+#downloads a { margin-right: 3em; text-align:left; white-space: nowrap; line-height: 1.6 }
+#downloads div {text-align:center;}
+#downloads a img {vertical-align: sub}
+
+.accent { color: midnightblue }
+.feature { float:left; width: 14em; margin-left: 3em;}
+.feature h2 { font-size: 1.15em; margin-top:0; margin-bottom:.3em;}
+.twitter-share-button {margin-top:3em;}
+.date { margin-top: -1em; font-variant: small-caps; }
+ul.post-list { font-size:larger }
+ul.post-list li { padding-bottom: .2em; }
+
+@media screen and (max-width:900px)
+{
+	body { width:auto; padding:10px;}
+	#container { width : 100%;  }
+	img { max-width:100%; }
+	.screenshotborder { display:none; }
+}
