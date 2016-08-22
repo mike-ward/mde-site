@@ -1,7 +1,7 @@
 ---
 layout: default  
+title:  About
 ...
-
 {% include sitelink.html %}
 
 # ![About Icon](<{{ site.url }}images/about.png>)About
