@@ -14,8 +14,7 @@ what I value. That's why I write in Markdown. And it's why I wrote
 Markdown Edit.
 
 > Writing for the web with Microsoft Word is like commuting to work in
-> an 18-wheeler. &ndash;
-> [MakeUseOf.com](http://www.makeuseof.com/tag/5-sites-quickly-learning-markdown/)
+> an 18-wheeler. &ndash;&nbsp;[MakeUseOf.com](http://www.makeuseof.com/tag/5-sites-quickly-learning-markdown/)
 
 Writing should first and foremost be about, well, writing. Presentation
 matters but in most cases it's an enhancement, not the message. Who
