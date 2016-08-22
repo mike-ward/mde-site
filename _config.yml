@@ -23,4 +23,6 @@ twitter:
   username:       mikeward_aa
 
 gems:
-  - jekyll-seo-tag  
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
