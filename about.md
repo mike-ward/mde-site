@@ -4,7 +4,7 @@ title:  About
 ...
 {% include sitelink.html %}
 
-# ![About Icon](<{{ site.url }}images/about.png>)About
+# ![About Icon](<{{ site.url }}/images/about.png>)About
 
 There's something hopeful and exciting about a blank page. The promise
 of new journeys and of stories untold. And yet when I open a program
