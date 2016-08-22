@@ -52,6 +52,4 @@ Other things I wanted.
 So there you have it. My attempt at a Markdown editor. Enjoy it or hate
 it. I have fun writing and using it and that's enough for me.
 
--- Mike
-
-{% include follow.html %}
+&ndash; Mike
