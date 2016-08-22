@@ -21,6 +21,7 @@ owner:
 
 twitter:
   username:       mikeward_aa
+  creator:        mikeward_aa
 
 gems:
   - jekyll-seo-tag
