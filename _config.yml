@@ -2,7 +2,7 @@ appname:          'Markdown Edit'
 canonical:        http://markdownedit.com/
 
 title:            'Markdown Edit'
-description       'A full-featured Markdown editor for Windows with an emphasis on content and keyboard shortcuts'
+description:      'A full-featured Markdown editor for Windows with an emphasis on content and keyboard shortcuts'
 url:              http://markdownedit.com/
 author:           'Mike Ward'
 logo:             /images/logo.png
