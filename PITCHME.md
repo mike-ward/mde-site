@@ -31,3 +31,4 @@ Updates as you type. Handles large documents with ease. User defined templates. 
 
 #HSLIDE
 
+![markdown-edit-screenshot.png](http://mike-ward.net/cdn/images/markdown-edit/markdown-edit-screenshot.png "Gratuitous Screen Shot")
