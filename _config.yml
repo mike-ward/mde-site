@@ -29,4 +29,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-mentions
+  - jemoji
