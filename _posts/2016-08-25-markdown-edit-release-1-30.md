@@ -1,8 +1,8 @@
 ---
 layout: post  
-title: Markdown Edit Release 1.30  
+title:  Markdown Edit Release 1.30  
 ...
-
+<!-- MDE -->
 Enhancements:
 
 -   Add list indent on tab
@@ -33,7 +33,7 @@ took me to task for wiring up my command elements in code behind. A
 technical issue that doesn't make the program work better but it does
 make it easier to maintain and enhance.
 
-The “Per Monitor API” enhancement is only available if you upgrade you
+The “Per Monitor DPI” enhancement is only available if you upgrade you
 .NET framework to 4.6. Get it at <http://smallestdotnet.com>.
 
 The default style sheet was too much like GitHub. While this works for
