@@ -29,7 +29,7 @@ Markdown Edit has been translated to the following languages:
 -   Danish
 -   English
 -   French
--   Germain
+-   German
 -   Italian
 -   Russian
 -   Spanish
