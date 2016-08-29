@@ -24,7 +24,7 @@ minimalistic, stylish-looking interface
 Translate
 ---------
 
-Markdown Edit has been translated to the following languages:
+Markdown Edit is available in the following languages:
 
 -   Danish
 -   English
