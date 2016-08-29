@@ -3,7 +3,7 @@ body
 	font-family: Segoe UI, Segoe WP, Helvetica, Arial, FreeSans, san-serif;
 	margin: 0; 
 	padding: 0; 
-	background: url('images/background_image.png') repeat-x top;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAFqCAAAAAD+Om94AAAAKElEQVR4AWN6x8SAARkxxchThVA31E1EqKKPG+mvGqGWVnowddJGNwC+RgPTDTvyfgAAAABJRU5ErkJggg==) repeat-x top;
 	font-size: 1.1em;
 }
 
