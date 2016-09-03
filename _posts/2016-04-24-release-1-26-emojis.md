@@ -38,7 +38,7 @@ of snippets to help with these.
 
 It’s not a perfect solution, but it’s close enough. Keep in mind that
 these need to encoded as UTF-8. Windows Notepad is not UTF-8 (it’s
-Windows 1252). This is reason why I don’t use curly quotes (accept for
+Windows 1252). This is reason why I don’t use “curly quotes” (accept for
 this paragraph :smile:).
 
 ### Pace of Change
