@@ -17,7 +17,7 @@ a, a:visited { color: #134A8A; text-decoration:none;}
 a:hover { color: #134A8A; text-decoration:underline; }
 img { border: none;}
 blockquote { padding: 0 12pt; color: #777; border-left: 3pt solid #ddd;  }
-p img::only-child { display: block; margin: 0 auto; }
+p img:only-child { display: block; margin: 0 auto; }
 
 #code52 { color: #41b1e1; font-family: Segoe UI Light, Segoe WP Light, Segoe UI, Helvetica, sans-serif; }
 #code52 a, #code52 a:visited { color: #41b1e1; text-decoration:none; }
