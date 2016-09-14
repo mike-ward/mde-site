@@ -1,5 +1,6 @@
 ---
-layout: index  
+layout: index 
+title: "The Markdown Editor for Windows" 
 ...
 
 ------------------------------------------------------------------------
