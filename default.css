@@ -28,7 +28,6 @@ img.emoji { display: initial !important; margin: initial !important; }
 #features { margin-top:1.5em; margin-bottom:1.5em;}
 #screenshot { text-align:center; }
 .screenshotborder {	width:45em;	display:block;	margin-left:auto; margin-right:auto; }
-#screenshotbordertop {margin-top:-22px;}
 #downloads { margin-left:auto; margin-right:auto; width:12.5em; font-size:2em; }
 #downloads a { margin-right: 3em; text-align:left; white-space: nowrap; line-height: 1.6 }
 #downloads div {text-align:center;}
