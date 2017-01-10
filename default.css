@@ -33,6 +33,7 @@ img.emoji { display: initial !important; margin: initial !important; }
 #downloads a { margin-right: 3em; text-align:left; white-space: nowrap; line-height: 1.6 }
 #downloads div {text-align:center;}
 #downloads a img {vertical-align: sub}
+#resharper { float: right; }
 
 .accent { color: midnightblue }
 .feature { float:left; width: 14em; margin-left: 3em;}
