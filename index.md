@@ -26,11 +26,13 @@ Translate
 
 Markdown Edit is available in the following languages:
 
+-   Czech
 -   Danish
 -   English
 -   French
 -   German
 -   Italian
+-   Portuguese
 -   Russian
 -   Spanish
 -   Swedish
